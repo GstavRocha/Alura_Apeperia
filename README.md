@@ -1,11 +1,5 @@
-# aluracursostudies
-# Alura Appeperia
-## html, css and responsiveness course
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
 
-### Mobile First.
-
-
-## This files they are documentation developed  studies Alura Courses. But all files they are **my authorship**.
-
-
-### for contact me gustavorocha.dev@hotmail.com 
+Projeto desenvolvido como parte do Curso de Responsividade da Alura para páginas Web. 
+Desenvolvido por Gustavo Rocha - Aluno do Alura.
